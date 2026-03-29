@@ -30,34 +30,34 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 
 1. **Clone the repository:**
 
-```bash
-
-git clone https://github.com/Michael-Georgi/todo-pyqt5.git
-cd todo-pyqt5
-```
+   ```bash
+   
+   git clone https://github.com/Michael-Georgi/todo-pyqt5.git
+   cd todo-pyqt5
+   ```
 
 2. **Create a virtual environment (recommended):**
    
-```bash
-python -m venv venv
-```
+   ```bash
+   python -m venv venv
+   ```
 
 3. **Activate the virtual environment:**
 
-*Windows:*
+   *Windows:*
+   
+   ```bash
+   venv\Scripts\activate
+   ```
 
-```bash
-venv\Scripts\activate
-```
-
-*macOS/Linux:*
-
-```bash
-source venv/bin/activate
-```
+   *macOS/Linux:*
+   
+   ```bash
+   source venv/bin/activate
+   ```
 
 4. **Install dependencies:**
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
