@@ -32,7 +32,7 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 
 ```bash
 
-git clone https://github.com/YOUR_USERNAME/todo-pyqt5.git
+git clone https://github.com/Michael-Georgi/todo-pyqt5.git
 cd todo-pyqt5
 ```
 
