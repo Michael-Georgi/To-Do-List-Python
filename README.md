@@ -59,5 +59,5 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 4. **Install dependencies:**
 
       ```bash
-      pip install -r requirements.txt
+      pip install PyQt5
       ```
