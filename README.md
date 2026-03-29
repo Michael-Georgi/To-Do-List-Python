@@ -47,13 +47,13 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
    *Windows:*
       
     ```bash
-         venv\Scripts\activate
+    venv\Scripts\activate
     ```
    
    *macOS/Linux:*
       
     ```bash
-          source venv/bin/activate
+    source venv/bin/activate
     ```
 
 4. **Install dependencies:**
