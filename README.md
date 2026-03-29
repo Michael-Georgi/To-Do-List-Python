@@ -36,7 +36,7 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
       cd To-Do-List-Python
       ```
 
-2. **Create a virtual environment (recommended):**
+2. **Create a virtual environment:**
    
       ```bash
       python -m venv venv
