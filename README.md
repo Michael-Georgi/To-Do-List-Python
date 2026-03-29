@@ -44,17 +44,17 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 
 3. **Activate the virtual environment:**
 
-      *Windows:*
+   *Windows:*
       
-         ```bash
+    ```bash
          venv\Scripts\activate
-         ```
+    ```
    
-      *macOS/Linux:*
+   *macOS/Linux:*
       
-         ```bash
-         source venv/bin/activate
-         ```
+    ```bash
+          source venv/bin/activate
+    ```
 
 4. **Install dependencies:**
 
