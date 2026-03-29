@@ -21,7 +21,7 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 
 ## Demo
 
-![App Screenshot](<img width="396" height="447" alt="image" src="https://github.com/user-attachments/assets/b8ee327e-aa4d-451a-8f96-18c16fd7849e" />)  
+<img width="396" height="447" alt="image" src="https://github.com/user-attachments/assets/b8ee327e-aa4d-451a-8f96-18c16fd7849e" />
 
 
 ---
