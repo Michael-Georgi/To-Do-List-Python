@@ -32,8 +32,8 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 
       ```bash
       
-      git clone https://github.com/Michael-Georgi/todo-pyqt5.git
-      cd todo-pyqt5
+      git clone https://github.com/Michael-Georgi/To-Do-List-Python.git
+      cd To-Do-List-Python
       ```
 
 2. **Create a virtual environment (recommended):**
