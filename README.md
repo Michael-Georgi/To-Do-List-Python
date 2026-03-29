@@ -13,7 +13,7 @@ Add, edit, delete, and check off tasks with a scrollable interface. Tasks are sa
 - Delete individual tasks.
 - Clear all tasks at once.
 - Storage using JSON (`tasks.json`).
-- Responsive, scrollable UI with custom styling.
+- Responsive, scrollable UI.
 - Error messages for invalid input.
 - Task counter displays remaining tasks.
 
