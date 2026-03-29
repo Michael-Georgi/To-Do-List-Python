@@ -1,2 +1,63 @@
-# To-Do-List-Python
-Simple modern to-do list made using python, and PyQt5
+# To-Do List App (PyQt5)
+
+A clean, interactive To-Do List desktop application built using **Python** and **PyQt5**.  
+Add, edit, delete, and check off tasks with a scrollable interface. Tasks are saved locally in `tasks.json` so they persist between sessions.
+
+---
+
+## Features
+
+- Add new tasks with a single input box and button.
+- Edit tasks directly by clicking on them.
+- Mark tasks as complete with checkboxes.
+- Delete individual tasks.
+- Clear all tasks at once.
+- Persistent storage using JSON (`tasks.json`).
+- Responsive, scrollable UI with custom styling.
+- Error messages for invalid input.
+- Task counter displays remaining tasks.
+
+---
+
+## Demo
+
+![App Screenshot](<img width="396" height="447" alt="image" src="https://github.com/user-attachments/assets/b8ee327e-aa4d-451a-8f96-18c16fd7849e" />)  
+
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+
+```bash
+
+git clone https://github.com/YOUR_USERNAME/todo-pyqt5.git
+cd todo-pyqt5
+```
+
+2. **Create a virtual environment (recommended):**
+   
+```bash
+python -m venv venv
+```
+
+3. **Activate the virtual environment:**
+
+*Windows:*
+
+```bash
+venv\Scripts\activate
+```
+
+*macOS/Linux:*
+
+```bash
+source venv/bin/activate
+```
+
+4. **Install dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
