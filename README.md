@@ -1,7 +1,7 @@
 # To-Do List App (PyQt5)
 
 A clean, interactive To-Do List desktop application built using **Python** and **PyQt5**.  
-Add, edit, delete, and check off tasks with a scrollable interface. Tasks are saved locally in `tasks.json`.
+Add, edit, delete, and check off tasks with a scrollable interface. Tasks are saved locally in `tasks.json`
 
 ---
 
